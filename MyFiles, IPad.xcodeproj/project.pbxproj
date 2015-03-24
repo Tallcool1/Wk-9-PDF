@@ -13,6 +13,16 @@
 		0DA55E911ABB7185008F4C5A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DA55E901ABB7185008F4C5A /* Images.xcassets */; };
 		0DA55E941ABB7185008F4C5A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0DA55E921ABB7185008F4C5A /* LaunchScreen.xib */; };
 		0DA55EA01ABB7185008F4C5A /* MyFiles__IPadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55E9F1ABB7185008F4C5A /* MyFiles__IPadTests.swift */; };
+		0DA55EAA1ABB91E4008F4C5A /* LocalPdf1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EA91ABB91E4008F4C5A /* LocalPdf1ViewController.swift */; };
+		0DA55EB61ABBA077008F4C5A /* LocalPDF2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EB51ABBA077008F4C5A /* LocalPDF2ViewController.swift */; };
+		0DA55EB81ABBA442008F4C5A /* LocalPDF3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EB71ABBA442008F4C5A /* LocalPDF3ViewController.swift */; };
+		0DA55EDD1ABBABEC008F4C5A /* ExternalPDF1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EDC1ABBABEC008F4C5A /* ExternalPDF1ViewController.swift */; };
+		0DA55EDF1ABBAFAB008F4C5A /* ExternalPDF2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EDE1ABBAFAB008F4C5A /* ExternalPDF2ViewController.swift */; };
+		0DA55EE11ABBB10F008F4C5A /* ExternalPDF3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA55EE01ABBB10F008F4C5A /* ExternalPDF3ViewController.swift */; };
+		0DA858951AC229B900916059 /* avr3805.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0DA858941AC229B900916059 /* avr3805.pdf */; };
+		0DA858971AC229CA00916059 /* Honda Manual.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0DA858961AC229CA00916059 /* Honda Manual.pdf */; };
+		0DA858991AC229E100916059 /* Special Effects.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0DA858981AC229E100916059 /* Special Effects.pdf */; };
+		0DA8589B1AC229EE00916059 /* pdf image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA8589A1AC229EE00916059 /* pdf image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,16 @@
 		0DA55E991ABB7185008F4C5A /* MyFiles, IPadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MyFiles, IPadTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DA55E9E1ABB7185008F4C5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DA55E9F1ABB7185008F4C5A /* MyFiles__IPadTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFiles__IPadTests.swift; sourceTree = "<group>"; };
+		0DA55EA91ABB91E4008F4C5A /* LocalPdf1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocalPdf1ViewController.swift; path = "MyFiles, IPad/LocalPdf1ViewController.swift"; sourceTree = "<group>"; };
+		0DA55EB51ABBA077008F4C5A /* LocalPDF2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocalPDF2ViewController.swift; path = "MyFiles, IPad/LocalPDF2ViewController.swift"; sourceTree = "<group>"; };
+		0DA55EB71ABBA442008F4C5A /* LocalPDF3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocalPDF3ViewController.swift; path = "MyFiles, IPad/LocalPDF3ViewController.swift"; sourceTree = "<group>"; };
+		0DA55EDC1ABBABEC008F4C5A /* ExternalPDF1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExternalPDF1ViewController.swift; path = "MyFiles, IPad/ExternalPDF1ViewController.swift"; sourceTree = "<group>"; };
+		0DA55EDE1ABBAFAB008F4C5A /* ExternalPDF2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExternalPDF2ViewController.swift; path = "MyFiles, IPad/ExternalPDF2ViewController.swift"; sourceTree = "<group>"; };
+		0DA55EE01ABBB10F008F4C5A /* ExternalPDF3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExternalPDF3ViewController.swift; path = "MyFiles, IPad/ExternalPDF3ViewController.swift"; sourceTree = "<group>"; };
+		0DA858941AC229B900916059 /* avr3805.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = avr3805.pdf; sourceTree = "<group>"; };
+		0DA858961AC229CA00916059 /* Honda Manual.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Honda Manual.pdf"; sourceTree = "<group>"; };
+		0DA858981AC229E100916059 /* Special Effects.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Special Effects.pdf"; sourceTree = "<group>"; };
+		0DA8589A1AC229EE00916059 /* pdf image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pdf image.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +79,8 @@
 		0DA55E7B1ABB7184008F4C5A = {
 			isa = PBXGroup;
 			children = (
+				0DA55EAC1ABB928C008F4C5A /* PDF */,
+				0DA55EAB1ABB9273008F4C5A /* Views */,
 				0DA55E861ABB7184008F4C5A /* MyFiles, IPad */,
 				0DA55E9C1ABB7185008F4C5A /* MyFiles, IPadTests */,
 				0DA55E851ABB7184008F4C5A /* Products */,
@@ -82,6 +104,7 @@
 				0DA55E8D1ABB7185008F4C5A /* Main.storyboard */,
 				0DA55E901ABB7185008F4C5A /* Images.xcassets */,
 				0DA55E921ABB7185008F4C5A /* LaunchScreen.xib */,
+				0DA8589A1AC229EE00916059 /* pdf image.png */,
 				0DA55E871ABB7184008F4C5A /* Supporting Files */,
 			);
 			path = "MyFiles, IPad";
@@ -110,6 +133,29 @@
 				0DA55E9E1ABB7185008F4C5A /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0DA55EAB1ABB9273008F4C5A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0DA55EE01ABBB10F008F4C5A /* ExternalPDF3ViewController.swift */,
+				0DA55EDE1ABBAFAB008F4C5A /* ExternalPDF2ViewController.swift */,
+				0DA55EB71ABBA442008F4C5A /* LocalPDF3ViewController.swift */,
+				0DA55EB51ABBA077008F4C5A /* LocalPDF2ViewController.swift */,
+				0DA55EA91ABB91E4008F4C5A /* LocalPdf1ViewController.swift */,
+				0DA55EDC1ABBABEC008F4C5A /* ExternalPDF1ViewController.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		0DA55EAC1ABB928C008F4C5A /* PDF */ = {
+			isa = PBXGroup;
+			children = (
+				0DA858981AC229E100916059 /* Special Effects.pdf */,
+				0DA858961AC229CA00916059 /* Honda Manual.pdf */,
+				0DA858941AC229B900916059 /* avr3805.pdf */,
+			);
+			name = PDF;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +239,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DA55E8F1ABB7185008F4C5A /* Main.storyboard in Resources */,
+				0DA858971AC229CA00916059 /* Honda Manual.pdf in Resources */,
+				0DA858951AC229B900916059 /* avr3805.pdf in Resources */,
+				0DA858991AC229E100916059 /* Special Effects.pdf in Resources */,
+				0DA8589B1AC229EE00916059 /* pdf image.png in Resources */,
 				0DA55E941ABB7185008F4C5A /* LaunchScreen.xib in Resources */,
 				0DA55E911ABB7185008F4C5A /* Images.xcassets in Resources */,
 			);
@@ -212,8 +262,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DA55EB81ABBA442008F4C5A /* LocalPDF3ViewController.swift in Sources */,
+				0DA55EDF1ABBAFAB008F4C5A /* ExternalPDF2ViewController.swift in Sources */,
 				0DA55E8C1ABB7184008F4C5A /* ViewController.swift in Sources */,
+				0DA55EDD1ABBABEC008F4C5A /* ExternalPDF1ViewController.swift in Sources */,
+				0DA55EE11ABBB10F008F4C5A /* ExternalPDF3ViewController.swift in Sources */,
 				0DA55E8A1ABB7184008F4C5A /* AppDelegate.swift in Sources */,
+				0DA55EB61ABBA077008F4C5A /* LocalPDF2ViewController.swift in Sources */,
+				0DA55EAA1ABB91E4008F4C5A /* LocalPdf1ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +463,7 @@
 				0DA55EA51ABB7185008F4C5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0DA55EA61ABB7185008F4C5A /* Build configuration list for PBXNativeTarget "MyFiles, IPadTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +472,7 @@
 				0DA55EA81ABB7185008F4C5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
